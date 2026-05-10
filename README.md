@@ -76,5 +76,5 @@ The dashboard provides visually appealing and interactive insights into Flipkart
 ## Author
 
 **Sandeep Kumar Yadav**
-MCA Graduate | Data Analytics Enthusiast
+MCA | Data Analytics Enthusiast
 Skills: Excel, Power BI, SQL, Python, Pandas, NumPy, Matplotlib, Scikit-learn
